@@ -3,3 +3,4 @@ how ya doing today
 I'm doing great today 
 How are you
 I'm doing great 
+All branches have been merges together
